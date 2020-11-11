@@ -144,5 +144,7 @@ while repeat:
 
         if repeatprompt == "yes":
             repeat =  True
-
+				
+		else:
+			repeate = False
 exit()
