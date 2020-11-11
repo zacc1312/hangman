@@ -146,5 +146,5 @@ while repeat:
             repeat =  True
 				
 		else:
-			repeate = False
+			repeat = False
 exit()
